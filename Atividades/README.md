@@ -13,6 +13,7 @@
   - [ ] LEVAR TED PASSER
   - [ ] REALIZAR JANTAR
   - [ ] VER JOGO BRASIL
+  - [ ] BEBER CERVEJA
 
 
 
